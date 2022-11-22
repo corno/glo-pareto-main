@@ -1,6 +1,7 @@
 import { ISetExitCodeToFailed, IWriteStream } from "../interfaces/interfaces.p"
 import { TArguments } from "../types/types.p"
 
+//
 
 export type FProgramMain = (
     $: {
